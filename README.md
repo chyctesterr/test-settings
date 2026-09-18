@@ -5,4 +5,4 @@ Testing Settings
 
 Change 1s]
 
-Release_17.1.2_a
+release_17.1.2_a
